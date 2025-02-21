@@ -198,4 +198,4 @@ def filesystems():
         console.print(f"Error: {str(e)}", style="red")
 
 if __name__ == "__main__":
-    cli() 
+    cli()
